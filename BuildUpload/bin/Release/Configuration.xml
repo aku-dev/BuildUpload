@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root name="configuration" version="1.00">
+  <config>
+    <site>http://nash.ru/</site>
+    <api>http://nash.ru/api_v1/</api>
+    <download>http://download.nash.ru/api/</download>
+  </config>
+</root>
